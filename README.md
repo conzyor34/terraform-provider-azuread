@@ -1,5 +1,7 @@
 # Terraform Provider for Azure Active Directory
 
+**NOTE:** Out of date fork to resolve issues.
+
 **NOTE:** Version 1.0 and above of this provider requires Terraform 0.12 or later.
 
 - [Terraform Website](https://www.terraform.io)
